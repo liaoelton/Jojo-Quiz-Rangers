@@ -25,6 +25,7 @@ $ npm start
 ## 我的貢獻：
 以MongoDB、Express、React、Node.js(MERN)和RESTful API建構整個網站，幾乎都是手刻的，除了css之外><
 ## 使用與參考之框架/模組/原始碼：
+* MongoDB、Express、React、axios
 * 排行榜的CSS：https://codepen.io/alexerlandsson/pen/mPWgpO?editors=0100
 * 輸入欄的CSS：https://codepen.io/atunnecliffe/pen/gpKzQw?editors=1000
 * 標題的CSS：https://codepen.io/nw/pen/jhKtk
