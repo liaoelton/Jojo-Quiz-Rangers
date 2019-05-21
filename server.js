@@ -11,8 +11,7 @@ const gradeRoutes = express.Router();
 
 
 // set up your mongoDB URL
-// mongoose.connect([enter your mongodb URL], { useNewUrlParser: true });
-mongoose.connect('mongodb+srv://jocelyn:0000@cluster0-qns5z.mongodb.net/test?retryWrites=true', { useNewUrlParser: true });
+mongoose.connect([enter your mongodb URL], { useNewUrlParser: true });
 
 app.listen(PORT, function() {
     console.log("Server is running on Port: " + PORT);
